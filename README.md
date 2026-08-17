@@ -32,6 +32,11 @@ A classic Snake Game built with Python and Turtle.
 - `food.py` — Creates and positions food.
 - `scoreboard.py` — Displays the score and game-over message.
 
+## Output
+
+![Snake Game Output](snake-game.png)
+
+
 ## Author
 
 **HeyNia**
