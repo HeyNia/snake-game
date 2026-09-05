@@ -34,7 +34,7 @@ A classic Snake Game built with Python and Turtle.
 
 ## Output
 
-![Snake Game Output](snake-game.png(2)
+![Snake Game Output](snake-game.png(2))
 
 
 ## Author
